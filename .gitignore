@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.httr-oauth
+.DS_Store
+.quarto
+.positai
+figures/
+data/
+stats/
+R/INTERNAL-ONLY-*.R

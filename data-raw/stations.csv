@@ -1,0 +1,6 @@
+"station_label","station_code","station_name","role","latitude","longitude"
+"KL","St. 4b","Kvina ved Klosterøyna (Kloster)","main-stem downstream",58.29905301,6.95028162
+"NY","St. 1","Oppstrøms Nyland doserer","upstream of Nyland doser",58.41106897,6.928607
+"OB","St. 2","Nedstrøms Nyland doserer","downstream of Nyland doser",58.39618684,6.94338564
+"LA","St. 8","Litleåne før samløp Kvina (tributary, below Mygland doser)","tributary reference (Litleåne, below Mygland lime doser)",58.32244419,6.97430319
+"LU","025-45779","Litleåne, ovenfor kalkdoserer Mygland (upstream of Mygland doser)","Litleåne tributary, upstream of Mygland lime doser (historical monitoring only, no trial grabs)",58.50964,7.022155

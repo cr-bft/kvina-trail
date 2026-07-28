@@ -1,0 +1,17 @@
+PHASES
+    Fix_pH
+    H+ = H+
+    log_K 0.0
+SOLUTION 1
+    pH    5.6
+    C    0.5 as C
+    temperature    15
+    units    mg/l
+    density    0.998884400324642
+USE SOLUTION 1
+EQUILIBRIUM_PHASES 1
+    Fix_pH    -6    Calcite    10
+SELECTED_OUTPUT 1-1
+    -equilibrium_phases    Fix_pH
+END
+    

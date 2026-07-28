@@ -1,0 +1,14 @@
+SOLUTION {number}
+    pH    {pH}
+    Alkalinity    {Alkalinity}
+    K    {K}
+    Ca    {Ca}
+    Mg    {Mg}
+    Na    {Na}
+    Cl    {Cl}
+    S(6)    {S}
+    P    {P}
+    N    {N}
+    Al    {Al}
+    units    mg/l
+ 
